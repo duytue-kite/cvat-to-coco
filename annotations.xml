@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>21209</id>
+      <name>Test Keypoints Annotation</name>
+      <size>7</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2020-10-25 07:34:43.230512+00:00</created>
+      <updated>2020-10-25 09:32:00.418113+00:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>6</stop_frame>
+      <frame_filter></frame_filter>
+      <labels>
+        <label>
+          <name>Forklift</name>
+          <color>#3e2c2c</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>LFrontWheel</name>
+          <color>#4ed6d0</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>RFrontWheel</name>
+          <color>#da924e</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>LBackWheel</name>
+          <color>#fa412f</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>RBackWheel</name>
+          <color>#c57304</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>LBlade</name>
+          <color>#a29d52</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>RBlade</name>
+          <color>#978d52</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>LFrontRoof</name>
+          <color>#52f768</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>RFrontRoof</name>
+          <color>#6b5c2c</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>LBackRoof</name>
+          <color>#6798dc</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>RBackRoof</name>
+          <color>#5a262b</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>33661</id>
+          <start>0</start>
+          <stop>6</stop>
+          <url>http://cvat.org/?id=33661</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>vietkite</username>
+        <email>tue@vietkite.com</email>
+      </owner>
+      <assignee></assignee>
+    </task>
+    <dumped>2020-10-25 09:32:15.003161+00:00</dumped>
+  </meta>
+  <image id="6" name="forklift annotations.jpg" width="3264" height="3264">
+    <points label="LBlade" occluded="0" source="manual" points="2688.08,764.73" z_order="0">
+    </points>
+    <points label="RBlade" occluded="0" source="manual" points="2683.52,796.60" z_order="0">
+    </points>
+    <points label="LFrontRoof" occluded="0" source="manual" points="2373.97,314.05" z_order="0">
+    </points>
+    <points label="RFrontRoof" occluded="0" source="manual" points="2337.55,355.02" z_order="0">
+    </points>
+    <points label="LBackRoof" occluded="0" source="manual" points="2173.67,309.50" z_order="0">
+    </points>
+    <points label="LBlade" occluded="0" source="manual" points="821.63,2112.21" z_order="0">
+    </points>
+    <points label="LFrontWheel" occluded="1" source="manual" points="2510.54,701.00" z_order="0">
+    </points>
+    <points label="RFrontWheel" occluded="0" source="manual" points="2492.33,778.39" z_order="0">
+    </points>
+    <points label="LBackWheel" occluded="1" source="manual" points="2200.98,701.00" z_order="0">
+    </points>
+    <points label="RBackWheel" occluded="0" source="manual" points="2155.46,796.60" z_order="0">
+    </points>
+    <box label="Forklift" occluded="0" source="manual" xtl="2014.34" ytl="273.08" xbr="2783.67" ybr="860.33" z_order="0">
+    </box>
+    <points label="RBackRoof" occluded="0" source="manual" points="2141.80,359.58" z_order="0">
+    </points>
+    <points label="RBlade" occluded="0" source="manual" points="662.30,2121.32" z_order="0">
+    </points>
+    <points label="LFrontRoof" occluded="0" source="manual" points="789.77,1279.14" z_order="0">
+    </points>
+    <points label="RFrontRoof" occluded="0" source="manual" points="516.63,1320.11" z_order="0">
+    </points>
+    <points label="LBackRoof" occluded="0" source="manual" points="899.02,1165.33" z_order="0">
+    </points>
+    <points label="RBackRoof" occluded="0" source="manual" points="657.75,1188.09" z_order="0">
+    </points>
+    <points label="LFrontWheel" occluded="0" source="manual" points="999.17,1921.01" z_order="0">
+    </points>
+    <points label="RFrontWheel" occluded="1" source="manual" points="707.83,1975.64" z_order="0">
+    </points>
+    <points label="LBackWheel" occluded="0" source="manual" points="1090.22,1779.89" z_order="0">
+    </points>
+    <points label="RBackWheel" occluded="1" source="manual" points="794.32,1779.89" z_order="0">
+    </points>
+    <box label="Forklift" occluded="0" source="manual" xtl="471.11" ytl="1147.12" xbr="1135.74" ybr="2125.87" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="6.png" width="150" height="241">
+  </image>
+  <image id="4" name="5.png" width="335" height="234">
+  </image>
+  <image id="3" name="4.png" width="263" height="300">
+  </image>
+  <image id="2" name="3.png" width="257" height="221">
+  </image>
+  <image id="1" name="2.png" width="257" height="221">
+  </image>
+  <image id="0" name="1.png" width="302" height="309">
+    <points label="LBlade" occluded="1" source="manual" points="232.01,187.45" z_order="0">
+    </points>
+    <points label="RBlade" occluded="1" source="manual" points="249.25,223.69" z_order="0">
+    </points>
+    <points label="LFrontRoof" occluded="0" source="manual" points="181.16,59.88" z_order="0">
+    </points>
+    <points label="RFrontRoof" occluded="0" source="manual" points="221.23,112.50" z_order="0">
+    </points>
+    <points label="LBackRoof" occluded="0" source="manual" points="84.19,68.07" z_order="0">
+    </points>
+    <points label="RBackRoof" occluded="0" source="manual" points="124.70,125.39" z_order="0">
+    </points>
+    <points label="LFrontWheel" occluded="1" source="manual" points="179.86,178.40" z_order="0">
+    </points>
+    <points label="RFrontWheel" occluded="0" source="manual" points="207.88,249.51" z_order="0">
+    </points>
+    <points label="LBackWheel" occluded="0" source="manual" points="34.63,203.39" z_order="0">
+    </points>
+    <points label="RBackWheel" occluded="0" source="manual" points="73.42,273.64" z_order="0">
+    </points>
+    <box label="Forklift" occluded="0" source="manual" xtl="34.20" ytl="47.82" xbr="260.88" ybr="278.38" z_order="0">
+    </box>
+  </image>
+</annotations>
